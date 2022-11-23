@@ -1,1 +1,3 @@
-theme cayman
+#Build Settings
+theme: cayman
+remote_theme:
